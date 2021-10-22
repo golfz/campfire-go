@@ -1,2 +1,2 @@
-# campfire-go
-backend for "campfire project" developed with golang
+# 🔥 Campfire backend
+Backend for 🔥 Campfire developed with golang
